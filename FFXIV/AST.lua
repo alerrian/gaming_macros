@@ -39,3 +39,15 @@
 /ac "Minor Arcana" <mo>
 /ac "Minor Arcana" <t>
 /ac "Minor Arcana" <me>
+
+/merror off
+/micon "Exaltation"
+/ac "Exaltation" <mo>
+/ac "Exaltation" <t>
+/ac "Exaltation" <me>
+
+/merror off
+/micon "Synastry"
+/ac "Synastry" <mo>
+/ac "Synastry" <t>
+/ac "Synastry" <me>
