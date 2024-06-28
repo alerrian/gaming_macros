@@ -39,3 +39,9 @@
 /ac "Seraphism" <mo>
 /ac "Seraphism" <t>
 /ac "Seraphism" <me>
+
+/merror off
+/micon "Protraction"
+/ac "Protraction" <mo>
+/ac "Protraction" <t>
+/ac "Protraction" <me>
