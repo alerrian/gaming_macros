@@ -33,3 +33,9 @@
 /ac "Aetherpact" <mo>
 /ac "Aetherpact" <t>
 /ac "Aetherpact" <me>
+
+/merror off
+/micon "SEraphism"
+/ac "Seraphism" <mo>
+/ac "Seraphism" <t>
+/ac "Seraphism" <me>
